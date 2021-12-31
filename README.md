@@ -1,4 +1,4 @@
-# BlueEaglejRat-Source-Code
+# BlueEagle-jRAT-Source-Code
 # 💿 Program Owner : SaherBlueEagle
 💿 BlueEagle jRAT  [Windows RAT / Linux RAT / MAC RAT] 
 [Windows RAT] [Linux RAT] [MAC RAT] 
